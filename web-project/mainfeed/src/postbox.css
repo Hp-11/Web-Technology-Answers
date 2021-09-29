@@ -1,0 +1,23 @@
+.contextBody{
+    margin: 2vw;
+    max-width: 50vw;
+    max-height: 200px;
+    background-color: rgb(155, 163, 163);
+}
+.contextTitle{
+    display: flex;
+    justify-content: left;
+    padding: 0 0vw 0 2vw ;
+}
+.contextTitle p{
+    position: relative;
+    left: 50%;
+    /* margin: 10% 0 0 10% ; */
+}
+/* @media screen and(max-width:900px) {
+    .contextTitle p{
+        position: relative;
+        left: 20%;
+        /* margin: 10% 0 0 10% ; 
+    }
+} */
